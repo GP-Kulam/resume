@@ -1,0 +1,97 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: #161616;
+}
+
+.container {
+    width: 800px;
+}
+
+h2 {
+    margin: 0;
+    padding: 0;
+    font-weight: 500;
+}
+
+.hr {
+    width: 100%;
+    height: 1px;
+    background-color: rgb(34, 34, 34);
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.social-links > li {
+    margin: 0 16px 0 16px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li > span > a {
+    color: #161616;
+    text-decoration: none;
+}
+
+.links {
+    margin-bottom: 16px;
+}
+
+.section {
+    margin-top: 16px;
+}
+
+.weight {
+    margin: 8px;
+}
+
+.title-1-left {
+    font-weight: 600;
+    float: left;
+    position: relative;
+}
+
+.title-1-right {
+    float: right;
+    position: relative;
+}
+
+.title-2-left {
+    float: left;
+}
+
+.title-2-right {
+    float: right;
+}
+
+.details {
+    margin-left: 24px
+}
+
+.skills {
+    list-style: none;
+}
+
+.certs {
+   font-weight: 400; 
+   text-decoration: underline;
+}
+
+.social-icon {
+    margin-right: 4px;
+}
+
+.clickable {
+    color: #161616;
+}
