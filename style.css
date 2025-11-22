@@ -2,6 +2,8 @@ body {
     margin: 0;
     padding: 0;
     color: #161616;
+    font-size: 16px;
+    font-weight: normal;
 }
 
 .container {
@@ -45,11 +47,11 @@ li > span > a {
 }
 
 .links {
-    margin-bottom: 16px;
+    margin-bottom: 8px;
 }
 
 .section {
-    margin-top: 16px;
+    margin-top: 12px;
 }
 
 .weight {
@@ -75,8 +77,8 @@ li > span > a {
     float: right;
 }
 
-.details {
-    margin-left: 24px
+.points {
+    margin-left: 16px
 }
 
 .skills {
@@ -94,4 +96,12 @@ li > span > a {
 
 .clickable {
     color: #161616;
+}
+
+.name {
+    margin-bottom: 8px;
+}
+
+.company-name {
+    font-weight: normal;
 }
